@@ -1,0 +1,16 @@
+<ProductBindingReportRequest xmlns="http://schemas.ms.it.oem/digitaldistribution/2010/10">
+  <CustomerBindingUniqueID>DSBGo1</CustomerBindingUniqueID>
+  <SoldToCustomerID>0000129206</SoldToCustomerID>
+  <ReceivedFromCustomerID>0000129206</ReceivedFromCustomerID>
+  <TotalLineItems>1</TotalLineItems>
+  <ProductBindings>
+    <ProductBinding>
+      <WindowsProductKeyID>3258505486614</WindowsProductKeyID>
+      <StoreAttachments>
+        <StoreAttachment>
+          <PartNumber>AAA-66925</PartNumber>
+        </StoreAttachment>
+      </StoreAttachments>
+    </ProductBinding>
+  </ProductBindings>
+</ProductBindingReportRequest>
